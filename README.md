@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+alertness
+# Alertness
 
-> Slugline
+> Finding and staying aligned with Your True North
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
